@@ -1,0 +1,43 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0 4rem 0 ;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.description{
+  font-size:24px ;
+}
+
+.li{
+  font-size: 16px;
+}
+
+.featureText{
+  font-size: 24px;
+  padding:0px
+}
+
+.link{
+  font-size: 24px;
+  font-weight: 700;
+background-color: #fff;
+width:10%
+}
+
+.linkWrapper{
+  padding:10px;
+  border:1px solid #dadde1;
+  width:260px;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+.linkWrapper:hover{
+  text-decoration: none;
+}
